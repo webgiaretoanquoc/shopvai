@@ -1,0 +1,1344 @@
+Uri: http://shop4.ninhbinhweb.info/wp-content/uploads/2019/07/banner-02.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\07\banner-02.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Oswald:regular%2C500%2Cregular|-apple-system%2C+BlinkMacSystemFont%2C+"Segoe_UI",_Roboto,_Oxygen-Sans,_Ubuntu,_Cantarell,_"Helvetica_Neue",_sans-serif:regular,regular|Dancing_Script:regular,400&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUZiYA.ttf
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fao-thun-khong-duong-may-suon-tubular-t-shirt%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-33.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fcac-loai-vai-thun-pho-bien-tren-thi-truong-hien-nay%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-32.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fdiem-danh-40-loai-vai-thun-tai-thi-truong-viet-nam%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-31.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-bot%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-27.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-ca-map-65-35-2-chieu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-ca-map-pe-2-chieu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-ca-sau-cotton-4-chieu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-ca-sau-me-4-chieu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-ca-sau-pe-2-chieu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-ca-sau-pe-4-chieu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-12.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-ca-sau-poly%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-13.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-ca-sau-tici-65-35-4-chieu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-14.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-caro-dong-phuc%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-35.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-da-ca-vay-ca%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-15.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-kate-dong-phuc%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-22.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-kim-cuong%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-23.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-luoi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-24.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-may-quan-the-duc-vai-cheo%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-16.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-misa-kim-tuyen%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-25.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-poly-lanh%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-17.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-poly-me%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-18.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-su-pe-4-chieu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-thun-bong-cao%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-19.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-thun-cat-han%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-34.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-thun-cotton-100-2-chieu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-thun-cotton-4-chieu-100%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-thun-cotton-65-35-2-chieu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-thun-lanh-silk%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-28.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-thun-me%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-29.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-thun-ni%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-20.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-thun-pe%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-thun-poly%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-26.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-thun-tixi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-thun-visco-deo%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fs%25E1%25BA%25A3n%2Bph%25E1%25BA%25A9m%252Fvai-vec-xay-75-150%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-21.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopvai.webtudong8giay.com%252Fvai-thun-la-gi-dac-tinh-ung-dung-pho-bien-nhat-hien-nay%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\login-30.php
+Content Type: application/xhtml+xml
+
+Uri: https://shopvai.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/ao-thun-khong-duong-may-suon-tubular-t-shirt/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\ao-thun-khong-duong-may-suon-tubular-t-shirt\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/ao-thun-khong-duong-may-suon-tubular-t-shirt/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\ao-thun-khong-duong-may-suon-tubular-t-shirt\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/author/ninhbinhweb-info/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\author\ninhbinhweb-info\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/author/ninhbinhweb-info/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\author\ninhbinhweb-info\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/cac-loai-vai-thun-pho-bien-tren-thi-truong-hien-nay/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\cac-loai-vai-thun-pho-bien-tren-thi-truong-hien-nay\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/cac-loai-vai-thun-pho-bien-tren-thi-truong-hien-nay/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\cac-loai-vai-thun-pho-bien-tren-thi-truong-hien-nay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/category/tin-tuc/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\category\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/category/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\category\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/chinh-sach-ban-hang/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\chinh-sach-ban-hang\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/danh-muc-san-pham/vai-thun-cotton/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\danh-muc-san-pham\vai-thun-cotton\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/danh-muc-san-pham/vai-thun-cotton/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\danh-muc-san-pham\vai-thun-cotton\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/danh-muc-san-pham/vai-thun-dong-phuc/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\danh-muc-san-pham\vai-thun-dong-phuc\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/danh-muc-san-pham/vai-thun-dong-phuc/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\danh-muc-san-pham\vai-thun-dong-phuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/danh-muc-san-pham/vai-thun-khac/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\danh-muc-san-pham\vai-thun-khac\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/danh-muc-san-pham/vai-thun-khac/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\danh-muc-san-pham\vai-thun-khac\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/danh-muc-san-pham/vai-thun-the-thao/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\danh-muc-san-pham\vai-thun-the-thao\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/danh-muc-san-pham/vai-thun-the-thao/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\danh-muc-san-pham\vai-thun-the-thao\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/diem-danh-40-loai-vai-thun-tai-thi-truong-viet-nam/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\diem-danh-40-loai-vai-thun-tai-thi-truong-viet-nam\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/diem-danh-40-loai-vai-thun-tai-thi-truong-viet-nam/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\diem-danh-40-loai-vai-thun-tai-thi-truong-viet-nam\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/gioi-thieu/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/hoi-dap-van-de/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\hoi-dap-van-de\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/huong-dan-dat-hang/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\huong-dan-dat-hang\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/huong-dan-thanh-toan/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\huong-dan-thanh-toan\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/lien-he/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-bot/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-bot\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-bot/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-bot\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-ca-map-65-35-2-chieu/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-ca-map-65-35-2-chieu\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-ca-map-65-35-2-chieu/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-ca-map-65-35-2-chieu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-ca-map-pe-2-chieu/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-ca-map-pe-2-chieu\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-ca-map-pe-2-chieu/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-ca-map-pe-2-chieu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-ca-sau-cotton-4-chieu/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-ca-sau-cotton-4-chieu\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-ca-sau-cotton-4-chieu/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-ca-sau-cotton-4-chieu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-ca-sau-me-4-chieu/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-ca-sau-me-4-chieu\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-ca-sau-me-4-chieu/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-ca-sau-me-4-chieu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-ca-sau-pe-2-chieu/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-ca-sau-pe-2-chieu\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-ca-sau-pe-2-chieu/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-ca-sau-pe-2-chieu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-ca-sau-pe-4-chieu/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-ca-sau-pe-4-chieu\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-ca-sau-pe-4-chieu/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-ca-sau-pe-4-chieu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-ca-sau-poly/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-ca-sau-poly\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-ca-sau-poly/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-ca-sau-poly\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-ca-sau-tici-65-35-4-chieu/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-ca-sau-tici-65-35-4-chieu\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-ca-sau-tici-65-35-4-chieu/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-ca-sau-tici-65-35-4-chieu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-caro-dong-phuc/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-caro-dong-phuc\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-caro-dong-phuc/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-caro-dong-phuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-da-ca-vay-ca/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-da-ca-vay-ca\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-da-ca-vay-ca/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-da-ca-vay-ca\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-kate-dong-phuc/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-kate-dong-phuc\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-kate-dong-phuc/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-kate-dong-phuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-kim-cuong/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-kim-cuong\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-kim-cuong/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-kim-cuong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-luoi/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-luoi\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-luoi/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-luoi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-may-quan-the-duc-vai-cheo/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-may-quan-the-duc-vai-cheo\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-may-quan-the-duc-vai-cheo/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-may-quan-the-duc-vai-cheo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-misa-kim-tuyen/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-misa-kim-tuyen\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-misa-kim-tuyen/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-misa-kim-tuyen\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-poly-lanh/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-poly-lanh\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-poly-lanh/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-poly-lanh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-poly-me/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-poly-me\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-poly-me/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-poly-me\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-su-pe-4-chieu/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-su-pe-4-chieu\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-su-pe-4-chieu/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-su-pe-4-chieu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-thun-bong-cao/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-thun-bong-cao\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-thun-bong-cao/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-thun-bong-cao\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-thun-cat-han/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-thun-cat-han\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-thun-cat-han/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-thun-cat-han\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-thun-cotton-100-2-chieu/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-thun-cotton-100-2-chieu\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-thun-cotton-100-2-chieu/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-thun-cotton-100-2-chieu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-thun-cotton-4-chieu-100/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-thun-cotton-4-chieu-100\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-thun-cotton-4-chieu-100/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-thun-cotton-4-chieu-100\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-thun-cotton-65-35-2-chieu/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-thun-cotton-65-35-2-chieu\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-thun-cotton-65-35-2-chieu/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-thun-cotton-65-35-2-chieu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-thun-lanh-silk/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-thun-lanh-silk\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-thun-lanh-silk/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-thun-lanh-silk\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-thun-me/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-thun-me\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-thun-me/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-thun-me\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-thun-ni/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-thun-ni\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-thun-ni/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-thun-ni\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-thun-pe/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-thun-pe\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-thun-pe/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-thun-pe\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-thun-poly/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-thun-poly\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-thun-poly/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-thun-poly\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-thun-tixi/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-thun-tixi\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-thun-tixi/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-thun-tixi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-thun-visco-deo/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-thun-visco-deo\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-thun-visco-deo/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-thun-visco-deo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-vec-xay-75-150/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-vec-xay-75-150\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/sản phẩm/vai-vec-xay-75-150/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\sản phẩm\vai-vec-xay-75-150\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/tai-khoan/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\tai-khoan\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/tai-khoan/lost-password/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\tai-khoan\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/trang-chu/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\trang-chu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/vai-thun-la-gi-dac-tinh-ung-dung-pho-bien-nhat-hien-nay/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\vai-thun-la-gi-dac-tinh-ung-dung-pho-bien-nhat-hien-nay\index.htm
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/vai-thun-la-gi-dac-tinh-ung-dung-pho-bien-nhat-hien-nay/feed/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\vai-thun-la-gi-dac-tinh-ung-dung-pho-bien-nhat-hien-nay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-admin/css/forms.min.css?ver=6.0.3
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-admin\css\forms.min.css
+Content Type: text/css
+
+Uri: https://shopvai.webtudong8giay.com/wp-admin/css/l10n.min.css?ver=6.0.3
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-admin\css\l10n.min.css
+Content Type: text/css
+
+Uri: https://shopvai.webtudong8giay.com/wp-admin/css/login.min.css?ver=6.0.3
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-admin\css\login.min.css
+Content Type: text/css
+
+Uri: https://shopvai.webtudong8giay.com/wp-admin/images/loading.gif
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-admin\images\loading.gif
+Content Type: image/gif
+
+Uri: https://shopvai.webtudong8giay.com/wp-admin/images/w-logo-blue.png?ver=20131202
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-admin\images\w-logo-blue.png
+Content Type: image/png
+
+Uri: https://shopvai.webtudong8giay.com/wp-admin/images/wordpress-logo.svg?ver=20131107
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-admin\images\wordpress-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.0.3
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-admin/js/user-profile.min.js?ver=6.0.3
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-admin\js\user-profile.min.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.1
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.1
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=6.7.0
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.6.7.0
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.6.7.0
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.6.7.0
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=7.8.3
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=7.8.3
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/themes/flatsome/assets/libs/packery.pkgd.min.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\themes\flatsome\assets\libs\packery.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/ao-dong-phuc-hoc-sinh-150x150.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\ao-dong-phuc-hoc-sinh-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/Ao-thun-nam-chim-ung-yessir-xamz-150x150.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\Ao-thun-nam-chim-ung-yessir-xamz-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/ao-thun-nam-Supreme-in-noi-4-150x150.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\ao-thun-nam-Supreme-in-noi-4-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/cai-thun-poly.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\cai-thun-poly.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/cropped-rehencement-logo-01-1-180x180.png
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\cropped-rehencement-logo-01-1-180x180.png
+Content Type: image/png
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/cropped-rehencement-logo-01-1-192x192.png
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\cropped-rehencement-logo-01-1-192x192.png
+Content Type: image/png
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/cropped-rehencement-logo-01-1-32x32.png
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\cropped-rehencement-logo-01-1-32x32.png
+Content Type: image/png
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/line.png
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\line.png
+Content Type: image/png
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/logo-vai-thuy-loan-1-300x50.png
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\logo-vai-thuy-loan-1-300x50.png
+Content Type: image/png
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/logo-vai-thuy-loan-1.png
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\logo-vai-thuy-loan-1.png
+Content Type: image/png
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/logo-vai-thuy-loan.png
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\logo-vai-thuy-loan.png
+Content Type: image/png
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/poly-me.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\poly-me.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/thun-cotton-100-2-chiều.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\thun-cotton-100-2-chiều.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/thun-cotton-100-4-chiều.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\thun-cotton-100-4-chiều.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-ca-map-pe-2-chieu.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-ca-map-pe-2-chieu.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-ca-sấu-tici.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-ca-sấu-tici.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-ca-sau-cotton-2-chiều.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-ca-sau-cotton-2-chiều.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-ca-sau-pe-4-chieu.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-ca-sau-pe-4-chieu.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-ca-sau-pe.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-ca-sau-pe.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-cheo.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-cheo.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-karo.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-karo.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-kate.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-kate.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-kim-cuong.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-kim-cuong.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-misa-kim-tuyen.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-misa-kim-tuyen.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-poly-150x150.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-poly-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-poly-4-chiều.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-poly-4-chiều.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-poly-lanh.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-poly-lanh.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-poly.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-poly.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-sec-xay.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-sec-xay.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-su.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-su.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-thun-bong-cao.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-thun-bong-cao.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-thun-bot.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-thun-bot.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-thun-ca-map.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-thun-ca-map.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-thun-cat-han.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-thun-cat-han.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-thun-cotton-100-2-chiều.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-thun-cotton-100-2-chiều.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-thun-da-ca.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-thun-da-ca.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-thun-lanh.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-thun-lanh.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-thun-luoi.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-thun-luoi.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-thun-me.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-thun-me.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-thun-nỉ.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-thun-nỉ.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-thun-pe.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-thun-pe.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-thun-tixi.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-thun-tixi.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-content/uploads/2019/09/vai-thun-visco.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-content\uploads\2019\09\vai-thun-visco.jpg
+Content Type: image/jpeg
+
+Uri: https://shopvai.webtudong8giay.com/wp-includes/css/buttons.min.css?ver=6.0.3
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-includes\css\buttons.min.css
+Content Type: text/css
+
+Uri: https://shopvai.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.0.3
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://shopvai.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.3
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://shopvai.webtudong8giay.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shopvai.webtudong8giay.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://shopvai.webtudong8giay.com/wp-includes/js/comment-reply.min.js?ver=6.0.3
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=c6d64f2cb8f5c6bb49caca37f8828ce3
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=ebee46757c6a411e38fd079a7ac71d94
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-includes/js/underscore.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-includes/js/wp-util.min.js?ver=6.0.3
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://shopvai.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fao-thun-khong-duong-may-suon-tubular-t-shirt%2F
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fao-thun-khong-duong-may-suon-tubular-t-shirt%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fcac-loai-vai-thun-pho-bien-tren-thi-truong-hien-nay%2F
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fcac-loai-vai-thun-pho-bien-tren-thi-truong-hien-nay%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fchinh-sach-ban-hang%2F
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fchinh-sach-ban-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fdiem-danh-40-loai-vai-thun-tai-thi-truong-viet-nam%2F
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fdiem-danh-40-loai-vai-thun-tai-thi-truong-viet-nam%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fhoi-dap-van-de%2F
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fhoi-dap-van-de%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fhuong-dan-dat-hang%2F
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fhuong-dan-dat-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fhuong-dan-thanh-toan%2F
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fhuong-dan-thanh-toan%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Ftai-khoan%2F
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Ftai-khoan%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fvai-thun-la-gi-dac-tinh-ung-dung-pho-bien-nhat-hien-nay%2F
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fvai-thun-la-gi-dac-tinh-ung-dung-pho-bien-nhat-hien-nay%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fsản+phẩm%2Fvai-ca-map-pe-2-chieu%2F
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fsản+phẩm%2Fvai-ca-map-pe-2-chieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fsản+phẩm%2Fvai-ca-sau-pe-4-chieu%2F
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fsản+phẩm%2Fvai-ca-sau-pe-4-chieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fsản+phẩm%2Fvai-kim-cuong%2F
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fsản+phẩm%2Fvai-kim-cuong%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fsản+phẩm%2Fvai-misa-kim-tuyen%2F
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fsản+phẩm%2Fvai-misa-kim-tuyen%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fsản+phẩm%2Fvai-poly-lanh%2F
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fsản+phẩm%2Fvai-poly-lanh%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fsản+phẩm%2Fvai-thun-bong-cao%2F
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fsản+phẩm%2Fvai-thun-bong-cao%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fsản+phẩm%2Fvai-thun-cat-han%2F
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fsản+phẩm%2Fvai-thun-cat-han%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fsản+phẩm%2Fvai-thun-cotton-100-2-chieu%2F
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fsản+phẩm%2Fvai-thun-cotton-100-2-chieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fsản+phẩm%2Fvai-thun-me%2F
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fsản+phẩm%2Fvai-thun-me%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fsản+phẩm%2Fvai-thun-ni%2F
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fsản+phẩm%2Fvai-thun-ni%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fsản+phẩm%2Fvai-thun-pe%2F
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fsản+phẩm%2Fvai-thun-pe%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fsản+phẩm%2Fvai-thun-tixi%2F
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopvai.webtudong8giay.com%2Fsản+phẩm%2Fvai-thun-tixi%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/pages/10
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\pages\10
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/pages/12
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\pages\12
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/pages/14
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\pages\14
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/pages/20
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\pages\20
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/pages/245
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\pages\245
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/pages/247
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\pages\247
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/pages/251
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\pages\251
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/posts/262
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\posts\262
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/posts/267
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\posts\267
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/posts/269
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\posts\269
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/posts/271
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\posts\271
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/105
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\105
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/111
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\111
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/115
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\115
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/117
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\117
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/119
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\119
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/121
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\121
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/123
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\123
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/133
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\133
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/135
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\135
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/139
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\139
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/141
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\141
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/143
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\143
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/145
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\145
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/147
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\147
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/150
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\150
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/156
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\156
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/158
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\158
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/160
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\160
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/162
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\162
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/164
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\164
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/166
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\166
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/168
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\168
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/170
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\170
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/173
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\173
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/175
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\175
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/177
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\177
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/179
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\179
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/181
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\181
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/183
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\183
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/185
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\185
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/187
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\187
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product/189
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product\189
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product_cat/15
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product_cat\15
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product_cat/16
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product_cat\16
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product_cat/17
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product_cat\17
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/product_cat/18
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\product_cat\18
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://shopvai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fshopvai.webtudong8giay.com%2Fwp-admin%2Fwidgets.php&reauth=1
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\wp-login.php.html
+Content Type: text/html
+
+Uri: https://shopvai.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://webtudong8giay.com/web-builder/assets/login/nen-admin.jpg
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\web-builder\assets\login\nen-admin.jpg
+Content Type: image/jpeg
+
+Uri: https://webtudong8giay.com/web-builder/assets/login/style.css?ver=6.0.3
+File Name: C:\Downloaded Web Sites\shopvai.webtudong8giay.com\web-builder\assets\login\style.css
+Content Type: text/css
+
